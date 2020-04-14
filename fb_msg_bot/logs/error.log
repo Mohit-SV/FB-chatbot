@@ -1,0 +1,626 @@
+[2019-07-02 12:00:33 +0000] [19607] [INFO] Starting gunicorn 19.9.0
+[2019-07-02 12:00:33 +0000] [19607] [INFO] Listening at: http://0.0.0.0:8000 (19607)
+[2019-07-02 12:00:33 +0000] [19607] [INFO] Using worker: gevent
+[2019-07-02 12:00:33 +0000] [19610] [INFO] Booting worker with pid: 19610
+[2019-07-02 12:00:33 +0000] [19611] [INFO] Booting worker with pid: 19611
+[2019-07-02 12:00:33 +0000] [19612] [INFO] Booting worker with pid: 19612
+[2019-07-02 12:00:34 +0000] [19613] [INFO] Booting worker with pid: 19613
+[2019-07-02 12:00:34 +0000] [19614] [INFO] Booting worker with pid: 19614
+[2019-07-02 12:00:35 +0000] [19607] [INFO] Handling signal: int
+[2019-07-02 12:00:35 +0000] [19611] [INFO] Worker exiting (pid: 19611)
+[2019-07-02 12:00:35 +0000] [19610] [INFO] Worker exiting (pid: 19610)
+[2019-07-02 12:00:35 +0000] [19612] [INFO] Worker exiting (pid: 19612)
+[2019-07-02 12:00:35 +0000] [19613] [INFO] Worker exiting (pid: 19613)
+[2019-07-02 12:00:35 +0000] [19614] [INFO] Worker exiting (pid: 19614)
+[2019-07-02 12:00:36 +0000] [19607] [INFO] Shutting down: Master
+[2019-07-02 12:01:05 +0000] [19640] [INFO] Starting gunicorn 19.9.0
+[2019-07-02 12:01:05 +0000] [19640] [INFO] Listening at: http://0.0.0.0:8000 (19640)
+[2019-07-02 12:01:05 +0000] [19640] [INFO] Using worker: gevent
+[2019-07-02 12:01:05 +0000] [19643] [INFO] Booting worker with pid: 19643
+[2019-07-02 12:01:06 +0000] [19644] [INFO] Booting worker with pid: 19644
+[2019-07-02 12:01:06 +0000] [19645] [INFO] Booting worker with pid: 19645
+[2019-07-02 12:01:06 +0000] [19647] [INFO] Booting worker with pid: 19647
+[2019-07-02 12:01:06 +0000] [19648] [INFO] Booting worker with pid: 19648
+[2019-07-02 17:56:45 +0000] [19640] [INFO] Handling signal: term
+[2019-07-02 17:56:45 +0000] [19644] [INFO] Worker exiting (pid: 19644)
+[2019-07-02 17:56:45 +0000] [19645] [INFO] Worker exiting (pid: 19645)
+[2019-07-02 17:56:46 +0000] [19648] [INFO] Worker exiting (pid: 19648)
+[2019-07-02 17:56:46 +0000] [19647] [INFO] Worker exiting (pid: 19647)
+[2019-07-02 17:56:46 +0000] [19643] [INFO] Worker exiting (pid: 19643)
+[2019-07-02 17:56:46 +0000] [19640] [INFO] Shutting down: Master
+[2019-07-02 17:56:46 +0000] [24796] [INFO] Starting gunicorn 19.9.0
+[2019-07-02 17:56:46 +0000] [24796] [INFO] Listening at: http://0.0.0.0:8000 (24796)
+[2019-07-02 17:56:46 +0000] [24796] [INFO] Using worker: gevent
+[2019-07-02 17:56:46 +0000] [24800] [INFO] Booting worker with pid: 24800
+[2019-07-02 17:56:46 +0000] [24801] [INFO] Booting worker with pid: 24801
+[2019-07-02 17:56:46 +0000] [24802] [INFO] Booting worker with pid: 24802
+[2019-07-02 17:56:46 +0000] [24803] [INFO] Booting worker with pid: 24803
+[2019-07-02 17:56:46 +0000] [24804] [INFO] Booting worker with pid: 24804
+[2019-07-03 10:03:35 +0000] [24796] [INFO] Handling signal: term
+[2019-07-03 10:03:36 +0000] [24802] [INFO] Worker exiting (pid: 24802)
+[2019-07-03 10:03:36 +0000] [24801] [INFO] Worker exiting (pid: 24801)
+[2019-07-03 10:03:36 +0000] [24800] [INFO] Worker exiting (pid: 24800)
+[2019-07-03 10:03:36 +0000] [24804] [INFO] Worker exiting (pid: 24804)
+[2019-07-03 10:03:36 +0000] [24803] [INFO] Worker exiting (pid: 24803)
+[2019-07-03 10:03:36 +0000] [24796] [INFO] Shutting down: Master
+[2019-07-03 10:03:37 +0000] [28179] [INFO] Starting gunicorn 19.9.0
+[2019-07-03 10:03:37 +0000] [28179] [INFO] Listening at: http://0.0.0.0:8000 (28179)
+[2019-07-03 10:03:37 +0000] [28179] [INFO] Using worker: gevent
+[2019-07-03 10:03:37 +0000] [28183] [INFO] Booting worker with pid: 28183
+[2019-07-03 10:03:37 +0000] [28184] [INFO] Booting worker with pid: 28184
+[2019-07-03 10:03:37 +0000] [28185] [INFO] Booting worker with pid: 28185
+[2019-07-03 10:03:37 +0000] [28186] [INFO] Booting worker with pid: 28186
+[2019-07-03 10:03:37 +0000] [28187] [INFO] Booting worker with pid: 28187
+[2019-07-03 10:51:25 +0000] [28179] [INFO] Handling signal: term
+[2019-07-03 10:51:26 +0000] [28183] [INFO] Worker exiting (pid: 28183)
+[2019-07-03 10:51:26 +0000] [28184] [INFO] Worker exiting (pid: 28184)
+[2019-07-03 10:51:26 +0000] [28185] [INFO] Worker exiting (pid: 28185)
+[2019-07-03 10:51:26 +0000] [28186] [INFO] Worker exiting (pid: 28186)
+[2019-07-03 10:51:26 +0000] [28187] [INFO] Worker exiting (pid: 28187)
+[2019-07-03 10:51:26 +0000] [28179] [INFO] Shutting down: Master
+[2019-07-03 10:51:27 +0000] [28348] [INFO] Starting gunicorn 19.9.0
+[2019-07-03 10:51:27 +0000] [28348] [INFO] Listening at: http://0.0.0.0:8000 (28348)
+[2019-07-03 10:51:27 +0000] [28348] [INFO] Using worker: gevent
+[2019-07-03 10:51:27 +0000] [28353] [INFO] Booting worker with pid: 28353
+[2019-07-03 10:51:27 +0000] [28354] [INFO] Booting worker with pid: 28354
+[2019-07-03 10:51:27 +0000] [28355] [INFO] Booting worker with pid: 28355
+[2019-07-03 10:51:27 +0000] [28356] [INFO] Booting worker with pid: 28356
+[2019-07-03 10:51:27 +0000] [28357] [INFO] Booting worker with pid: 28357
+[2019-07-03 11:11:49 +0000] [28348] [INFO] Handling signal: term
+[2019-07-03 11:11:49 +0000] [28356] [INFO] Worker exiting (pid: 28356)
+[2019-07-03 11:11:49 +0000] [28355] [INFO] Worker exiting (pid: 28355)
+[2019-07-03 11:11:49 +0000] [28353] [INFO] Worker exiting (pid: 28353)
+[2019-07-03 11:11:49 +0000] [28354] [INFO] Worker exiting (pid: 28354)
+[2019-07-03 11:11:50 +0000] [28357] [INFO] Worker exiting (pid: 28357)
+[2019-07-03 11:11:50 +0000] [28348] [INFO] Shutting down: Master
+[2019-07-03 11:11:50 +0000] [28442] [INFO] Starting gunicorn 19.9.0
+[2019-07-03 11:11:50 +0000] [28442] [INFO] Listening at: http://0.0.0.0:8000 (28442)
+[2019-07-03 11:11:50 +0000] [28442] [INFO] Using worker: gevent
+[2019-07-03 11:11:50 +0000] [28446] [INFO] Booting worker with pid: 28446
+[2019-07-03 11:11:50 +0000] [28447] [INFO] Booting worker with pid: 28447
+[2019-07-03 11:11:50 +0000] [28448] [INFO] Booting worker with pid: 28448
+[2019-07-03 11:11:50 +0000] [28449] [INFO] Booting worker with pid: 28449
+[2019-07-03 11:11:50 +0000] [28450] [INFO] Booting worker with pid: 28450
+[2019-07-03 11:20:00 +0000] [28442] [INFO] Handling signal: term
+[2019-07-03 11:20:01 +0000] [28446] [INFO] Worker exiting (pid: 28446)
+[2019-07-03 11:20:01 +0000] [28447] [INFO] Worker exiting (pid: 28447)
+[2019-07-03 11:20:01 +0000] [28448] [INFO] Worker exiting (pid: 28448)
+[2019-07-03 11:20:01 +0000] [28449] [INFO] Worker exiting (pid: 28449)
+[2019-07-03 11:20:01 +0000] [28450] [INFO] Worker exiting (pid: 28450)
+[2019-07-03 11:20:01 +0000] [28442] [INFO] Shutting down: Master
+[2019-07-03 11:20:01 +0000] [28512] [INFO] Starting gunicorn 19.9.0
+[2019-07-03 11:20:01 +0000] [28512] [INFO] Listening at: http://0.0.0.0:8000 (28512)
+[2019-07-03 11:20:01 +0000] [28512] [INFO] Using worker: gevent
+[2019-07-03 11:20:01 +0000] [28516] [INFO] Booting worker with pid: 28516
+[2019-07-03 11:20:01 +0000] [28517] [INFO] Booting worker with pid: 28517
+[2019-07-03 11:20:01 +0000] [28518] [INFO] Booting worker with pid: 28518
+[2019-07-03 11:20:01 +0000] [28519] [INFO] Booting worker with pid: 28519
+[2019-07-03 11:20:01 +0000] [28520] [INFO] Booting worker with pid: 28520
+[2019-07-03 11:22:48 +0000] [28512] [INFO] Handling signal: term
+[2019-07-03 11:22:48 +0000] [28517] [INFO] Worker exiting (pid: 28517)
+[2019-07-03 11:22:48 +0000] [28520] [INFO] Worker exiting (pid: 28520)
+[2019-07-03 11:22:48 +0000] [28518] [INFO] Worker exiting (pid: 28518)
+[2019-07-03 11:22:48 +0000] [28519] [INFO] Worker exiting (pid: 28519)
+[2019-07-03 11:22:49 +0000] [28516] [INFO] Worker exiting (pid: 28516)
+[2019-07-03 11:22:49 +0000] [28512] [INFO] Shutting down: Master
+[2019-07-03 11:22:49 +0000] [28536] [INFO] Starting gunicorn 19.9.0
+[2019-07-03 11:22:49 +0000] [28536] [INFO] Listening at: http://0.0.0.0:8000 (28536)
+[2019-07-03 11:22:49 +0000] [28536] [INFO] Using worker: gevent
+[2019-07-03 11:22:49 +0000] [28539] [INFO] Booting worker with pid: 28539
+[2019-07-03 11:22:49 +0000] [28540] [INFO] Booting worker with pid: 28540
+[2019-07-03 11:22:50 +0000] [28542] [INFO] Booting worker with pid: 28542
+[2019-07-03 11:22:50 +0000] [28543] [INFO] Booting worker with pid: 28543
+[2019-07-03 11:22:50 +0000] [28544] [INFO] Booting worker with pid: 28544
+[2019-07-03 11:47:04 +0000] [28536] [INFO] Handling signal: term
+[2019-07-03 11:47:04 +0000] [28540] [INFO] Worker exiting (pid: 28540)
+[2019-07-03 11:47:04 +0000] [28542] [INFO] Worker exiting (pid: 28542)
+[2019-07-03 11:47:04 +0000] [28544] [INFO] Worker exiting (pid: 28544)
+[2019-07-03 11:47:04 +0000] [28543] [INFO] Worker exiting (pid: 28543)
+[2019-07-03 11:47:05 +0000] [28539] [INFO] Worker exiting (pid: 28539)
+[2019-07-03 11:47:05 +0000] [28536] [INFO] Shutting down: Master
+[2019-07-03 11:47:05 +0000] [28627] [INFO] Starting gunicorn 19.9.0
+[2019-07-03 11:47:05 +0000] [28627] [INFO] Listening at: http://0.0.0.0:8000 (28627)
+[2019-07-03 11:47:05 +0000] [28627] [INFO] Using worker: gevent
+[2019-07-03 11:47:05 +0000] [28631] [INFO] Booting worker with pid: 28631
+[2019-07-03 11:47:05 +0000] [28632] [INFO] Booting worker with pid: 28632
+[2019-07-03 11:47:05 +0000] [28633] [INFO] Booting worker with pid: 28633
+[2019-07-03 11:47:05 +0000] [28634] [INFO] Booting worker with pid: 28634
+[2019-07-03 11:47:05 +0000] [28636] [INFO] Booting worker with pid: 28636
+[2019-07-03 11:49:03 +0000] [28627] [INFO] Handling signal: term
+[2019-07-03 11:49:03 +0000] [28633] [INFO] Worker exiting (pid: 28633)
+[2019-07-03 11:49:03 +0000] [28632] [INFO] Worker exiting (pid: 28632)
+[2019-07-03 11:49:03 +0000] [28634] [INFO] Worker exiting (pid: 28634)
+[2019-07-03 11:49:03 +0000] [28636] [INFO] Worker exiting (pid: 28636)
+[2019-07-03 11:49:03 +0000] [28631] [INFO] Worker exiting (pid: 28631)
+[2019-07-03 11:49:04 +0000] [28627] [INFO] Shutting down: Master
+[2019-07-03 11:49:04 +0000] [28649] [INFO] Starting gunicorn 19.9.0
+[2019-07-03 11:49:04 +0000] [28649] [INFO] Listening at: http://0.0.0.0:8000 (28649)
+[2019-07-03 11:49:04 +0000] [28649] [INFO] Using worker: gevent
+[2019-07-03 11:49:04 +0000] [28653] [INFO] Booting worker with pid: 28653
+[2019-07-03 11:49:04 +0000] [28654] [INFO] Booting worker with pid: 28654
+[2019-07-03 11:49:04 +0000] [28655] [INFO] Booting worker with pid: 28655
+[2019-07-03 11:49:04 +0000] [28657] [INFO] Booting worker with pid: 28657
+[2019-07-03 11:49:04 +0000] [28658] [INFO] Booting worker with pid: 28658
+[2019-07-03 13:05:10 +0000] [28649] [INFO] Handling signal: term
+[2019-07-03 13:05:10 +0000] [28653] [INFO] Worker exiting (pid: 28653)
+[2019-07-03 13:05:11 +0000] [28654] [INFO] Worker exiting (pid: 28654)
+[2019-07-03 13:05:11 +0000] [28655] [INFO] Worker exiting (pid: 28655)
+[2019-07-03 13:05:11 +0000] [28657] [INFO] Worker exiting (pid: 28657)
+[2019-07-03 13:05:11 +0000] [28658] [INFO] Worker exiting (pid: 28658)
+[2019-07-03 13:05:11 +0000] [28649] [INFO] Shutting down: Master
+[2019-07-03 13:05:11 +0000] [28959] [INFO] Starting gunicorn 19.9.0
+[2019-07-03 13:05:11 +0000] [28959] [INFO] Listening at: http://0.0.0.0:8000 (28959)
+[2019-07-03 13:05:11 +0000] [28959] [INFO] Using worker: gevent
+[2019-07-03 13:05:11 +0000] [28962] [INFO] Booting worker with pid: 28962
+[2019-07-03 13:05:11 +0000] [28963] [INFO] Booting worker with pid: 28963
+[2019-07-03 13:05:11 +0000] [28964] [INFO] Booting worker with pid: 28964
+[2019-07-03 13:05:11 +0000] [28965] [INFO] Booting worker with pid: 28965
+[2019-07-03 13:05:11 +0000] [28966] [INFO] Booting worker with pid: 28966
+[2019-07-03 13:05:11 +0000] [28962] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/ec2-user/www/upwards-growth-projects/fb_msg_bot_env/lib/python3.6/site-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/home/ec2-user/www/upwards-growth-projects/fb_msg_bot_env/lib/python3.6/site-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/home/ec2-user/www/upwards-growth-projects/fb_msg_bot_env/lib/python3.6/site-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/home/ec2-user/www/upwards-growth-projects/fb_msg_bot_env/lib/python3.6/site-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/home/ec2-user/www/upwards-growth-projects/fb_msg_bot_env/lib/python3.6/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/home/ec2-user/www/upwards-growth-projects/fb_msg_bot_env/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/home/ec2-user/www/upwards-growth-projects/fb_msg_bot_env/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/home/ec2-user/www/upwards-growth-projects/fb_msg_bot_env/lib/python3.6/site-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+ModuleNotFoundError: No module named 'fb_msg_bot.wsgi'
+[2019-07-03 13:05:11 +0000] [28962] [INFO] Worker exiting (pid: 28962)
+[2019-07-03 13:05:12 +0000] [28963] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/ec2-user/www/upwards-growth-projects/fb_msg_bot_env/lib/python3.6/site-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/home/ec2-user/www/upwards-growth-projects/fb_msg_bot_env/lib/python3.6/site-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/home/ec2-user/www/upwards-growth-projects/fb_msg_bot_env/lib/python3.6/site-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/home/ec2-user/www/upwards-growth-projects/fb_msg_bot_env/lib/python3.6/site-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/home/ec2-user/www/upwards-growth-projects/fb_msg_bot_env/lib/python3.6/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/home/ec2-user/www/upwards-growth-projects/fb_msg_bot_env/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/home/ec2-user/www/upwards-growth-projects/fb_msg_bot_env/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/home/ec2-user/www/upwards-growth-projects/fb_msg_bot_env/lib/python3.6/site-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+ModuleNotFoundError: No module named 'fb_msg_bot.wsgi'
+[2019-07-03 13:05:12 +0000] [28963] [INFO] Worker exiting (pid: 28963)
+[2019-07-03 13:05:12 +0000] [28964] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/ec2-user/www/upwards-growth-projects/fb_msg_bot_env/lib/python3.6/site-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/home/ec2-user/www/upwards-growth-projects/fb_msg_bot_env/lib/python3.6/site-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/home/ec2-user/www/upwards-growth-projects/fb_msg_bot_env/lib/python3.6/site-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/home/ec2-user/www/upwards-growth-projects/fb_msg_bot_env/lib/python3.6/site-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/home/ec2-user/www/upwards-growth-projects/fb_msg_bot_env/lib/python3.6/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/home/ec2-user/www/upwards-growth-projects/fb_msg_bot_env/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/home/ec2-user/www/upwards-growth-projects/fb_msg_bot_env/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/home/ec2-user/www/upwards-growth-projects/fb_msg_bot_env/lib/python3.6/site-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+ModuleNotFoundError: No module named 'fb_msg_bot.wsgi'
+[2019-07-03 13:05:12 +0000] [28964] [INFO] Worker exiting (pid: 28964)
+[2019-07-03 13:05:12 +0000] [28965] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/ec2-user/www/upwards-growth-projects/fb_msg_bot_env/lib/python3.6/site-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/home/ec2-user/www/upwards-growth-projects/fb_msg_bot_env/lib/python3.6/site-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/home/ec2-user/www/upwards-growth-projects/fb_msg_bot_env/lib/python3.6/site-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/home/ec2-user/www/upwards-growth-projects/fb_msg_bot_env/lib/python3.6/site-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/home/ec2-user/www/upwards-growth-projects/fb_msg_bot_env/lib/python3.6/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/home/ec2-user/www/upwards-growth-projects/fb_msg_bot_env/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/home/ec2-user/www/upwards-growth-projects/fb_msg_bot_env/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/home/ec2-user/www/upwards-growth-projects/fb_msg_bot_env/lib/python3.6/site-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+ModuleNotFoundError: No module named 'fb_msg_bot.wsgi'
+[2019-07-03 13:05:12 +0000] [28965] [INFO] Worker exiting (pid: 28965)
+[2019-07-03 13:05:12 +0000] [28966] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/ec2-user/www/upwards-growth-projects/fb_msg_bot_env/lib/python3.6/site-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/home/ec2-user/www/upwards-growth-projects/fb_msg_bot_env/lib/python3.6/site-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/home/ec2-user/www/upwards-growth-projects/fb_msg_bot_env/lib/python3.6/site-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/home/ec2-user/www/upwards-growth-projects/fb_msg_bot_env/lib/python3.6/site-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/home/ec2-user/www/upwards-growth-projects/fb_msg_bot_env/lib/python3.6/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/home/ec2-user/www/upwards-growth-projects/fb_msg_bot_env/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/home/ec2-user/www/upwards-growth-projects/fb_msg_bot_env/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/home/ec2-user/www/upwards-growth-projects/fb_msg_bot_env/lib/python3.6/site-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+ModuleNotFoundError: No module named 'fb_msg_bot.wsgi'
+[2019-07-03 13:05:12 +0000] [28966] [INFO] Worker exiting (pid: 28966)
+[2019-07-03 13:34:54 +0000] [29101] [INFO] Starting gunicorn 19.9.0
+[2019-07-03 13:34:54 +0000] [29101] [INFO] Listening at: http://0.0.0.0:8000 (29101)
+[2019-07-03 13:34:54 +0000] [29101] [INFO] Using worker: gevent
+[2019-07-03 13:34:54 +0000] [29104] [INFO] Booting worker with pid: 29104
+[2019-07-03 13:34:54 +0000] [29105] [INFO] Booting worker with pid: 29105
+[2019-07-03 13:34:54 +0000] [29106] [INFO] Booting worker with pid: 29106
+[2019-07-03 13:34:54 +0000] [29108] [INFO] Booting worker with pid: 29108
+[2019-07-03 13:34:54 +0000] [29109] [INFO] Booting worker with pid: 29109
+[2019-07-03 13:59:46 +0000] [29101] [INFO] Handling signal: term
+[2019-07-03 13:59:46 +0000] [29105] [INFO] Worker exiting (pid: 29105)
+[2019-07-03 13:59:46 +0000] [29108] [INFO] Worker exiting (pid: 29108)
+[2019-07-03 13:59:46 +0000] [29109] [INFO] Worker exiting (pid: 29109)
+[2019-07-03 13:59:46 +0000] [29106] [INFO] Worker exiting (pid: 29106)
+[2019-07-03 13:59:47 +0000] [29104] [INFO] Worker exiting (pid: 29104)
+[2019-07-03 13:59:47 +0000] [29101] [INFO] Shutting down: Master
+[2019-07-03 13:59:47 +0000] [29209] [INFO] Starting gunicorn 19.9.0
+[2019-07-03 13:59:47 +0000] [29209] [INFO] Listening at: http://0.0.0.0:8000 (29209)
+[2019-07-03 13:59:47 +0000] [29209] [INFO] Using worker: gevent
+[2019-07-03 13:59:47 +0000] [29213] [INFO] Booting worker with pid: 29213
+[2019-07-03 13:59:47 +0000] [29214] [INFO] Booting worker with pid: 29214
+[2019-07-03 13:59:47 +0000] [29215] [INFO] Booting worker with pid: 29215
+[2019-07-03 13:59:47 +0000] [29216] [INFO] Booting worker with pid: 29216
+[2019-07-03 13:59:47 +0000] [29217] [INFO] Booting worker with pid: 29217
+[2019-07-03 14:32:18 +0000] [29209] [INFO] Handling signal: term
+[2019-07-03 14:32:19 +0000] [29213] [INFO] Worker exiting (pid: 29213)
+[2019-07-03 14:32:19 +0000] [29214] [INFO] Worker exiting (pid: 29214)
+[2019-07-03 14:32:19 +0000] [29215] [INFO] Worker exiting (pid: 29215)
+[2019-07-03 14:32:19 +0000] [29216] [INFO] Worker exiting (pid: 29216)
+[2019-07-03 14:32:19 +0000] [29217] [INFO] Worker exiting (pid: 29217)
+[2019-07-03 14:32:20 +0000] [29209] [INFO] Shutting down: Master
+[2019-07-03 14:32:20 +0000] [29360] [INFO] Starting gunicorn 19.9.0
+[2019-07-03 14:32:20 +0000] [29360] [INFO] Listening at: http://0.0.0.0:8000 (29360)
+[2019-07-03 14:32:20 +0000] [29360] [INFO] Using worker: gevent
+[2019-07-03 14:32:20 +0000] [29364] [INFO] Booting worker with pid: 29364
+[2019-07-03 14:32:20 +0000] [29365] [INFO] Booting worker with pid: 29365
+[2019-07-03 14:32:20 +0000] [29366] [INFO] Booting worker with pid: 29366
+[2019-07-03 14:32:20 +0000] [29367] [INFO] Booting worker with pid: 29367
+[2019-07-03 14:32:20 +0000] [29368] [INFO] Booting worker with pid: 29368
+[2019-07-03 14:39:47 +0000] [29360] [INFO] Handling signal: term
+[2019-07-03 14:39:47 +0000] [29364] [INFO] Worker exiting (pid: 29364)
+[2019-07-03 14:39:48 +0000] [29366] [INFO] Worker exiting (pid: 29366)
+[2019-07-03 14:39:48 +0000] [29367] [INFO] Worker exiting (pid: 29367)
+[2019-07-03 14:39:48 +0000] [29368] [INFO] Worker exiting (pid: 29368)
+[2019-07-03 14:39:48 +0000] [29365] [INFO] Worker exiting (pid: 29365)
+[2019-07-03 14:39:48 +0000] [29360] [INFO] Shutting down: Master
+[2019-07-03 14:39:48 +0000] [29394] [INFO] Starting gunicorn 19.9.0
+[2019-07-03 14:39:48 +0000] [29394] [INFO] Listening at: http://0.0.0.0:8000 (29394)
+[2019-07-03 14:39:48 +0000] [29394] [INFO] Using worker: gevent
+[2019-07-03 14:39:48 +0000] [29398] [INFO] Booting worker with pid: 29398
+[2019-07-03 14:39:48 +0000] [29399] [INFO] Booting worker with pid: 29399
+[2019-07-03 14:39:48 +0000] [29400] [INFO] Booting worker with pid: 29400
+[2019-07-03 14:39:48 +0000] [29402] [INFO] Booting worker with pid: 29402
+[2019-07-03 14:39:48 +0000] [29401] [INFO] Booting worker with pid: 29401
+[2019-07-04 09:24:56 +0000] [29394] [INFO] Handling signal: term
+[2019-07-04 09:24:56 +0000] [29402] [INFO] Worker exiting (pid: 29402)
+[2019-07-04 09:24:56 +0000] [29399] [INFO] Worker exiting (pid: 29399)
+[2019-07-04 09:24:57 +0000] [29400] [INFO] Worker exiting (pid: 29400)
+[2019-07-04 09:24:57 +0000] [29401] [INFO] Worker exiting (pid: 29401)
+[2019-07-04 09:24:57 +0000] [29398] [INFO] Worker exiting (pid: 29398)
+[2019-07-04 09:24:57 +0000] [29394] [INFO] Shutting down: Master
+[2019-07-04 09:24:57 +0000] [474] [INFO] Starting gunicorn 19.9.0
+[2019-07-04 09:24:57 +0000] [474] [INFO] Listening at: http://0.0.0.0:8000 (474)
+[2019-07-04 09:24:57 +0000] [474] [INFO] Using worker: gevent
+[2019-07-04 09:24:57 +0000] [478] [INFO] Booting worker with pid: 478
+[2019-07-04 09:24:57 +0000] [479] [INFO] Booting worker with pid: 479
+[2019-07-04 09:24:57 +0000] [480] [INFO] Booting worker with pid: 480
+[2019-07-04 09:24:57 +0000] [481] [INFO] Booting worker with pid: 481
+[2019-07-04 09:24:57 +0000] [482] [INFO] Booting worker with pid: 482
+[2019-07-05 06:00:56 +0000] [474] [INFO] Handling signal: term
+[2019-07-05 06:00:56 +0000] [480] [INFO] Worker exiting (pid: 480)
+[2019-07-05 06:00:56 +0000] [479] [INFO] Worker exiting (pid: 479)
+[2019-07-05 06:00:56 +0000] [482] [INFO] Worker exiting (pid: 482)
+[2019-07-05 06:00:57 +0000] [478] [INFO] Worker exiting (pid: 478)
+[2019-07-05 06:00:57 +0000] [481] [INFO] Worker exiting (pid: 481)
+[2019-07-05 06:00:57 +0000] [474] [INFO] Shutting down: Master
+[2019-07-05 06:00:57 +0000] [4164] [INFO] Starting gunicorn 19.9.0
+[2019-07-05 06:00:57 +0000] [4164] [INFO] Listening at: http://0.0.0.0:8000 (4164)
+[2019-07-05 06:00:57 +0000] [4164] [INFO] Using worker: gevent
+[2019-07-05 06:00:57 +0000] [4168] [INFO] Booting worker with pid: 4168
+[2019-07-05 06:00:57 +0000] [4169] [INFO] Booting worker with pid: 4169
+[2019-07-05 06:00:57 +0000] [4170] [INFO] Booting worker with pid: 4170
+[2019-07-05 06:00:57 +0000] [4171] [INFO] Booting worker with pid: 4171
+[2019-07-05 06:00:57 +0000] [4172] [INFO] Booting worker with pid: 4172
+[2019-07-05 10:50:41 +0000] [4164] [INFO] Handling signal: term
+[2019-07-05 10:50:41 +0000] [4172] [INFO] Worker exiting (pid: 4172)
+[2019-07-05 10:50:41 +0000] [4170] [INFO] Worker exiting (pid: 4170)
+[2019-07-05 10:50:41 +0000] [4168] [INFO] Worker exiting (pid: 4168)
+[2019-07-05 10:50:41 +0000] [4171] [INFO] Worker exiting (pid: 4171)
+[2019-07-05 10:50:42 +0000] [4169] [INFO] Worker exiting (pid: 4169)
+[2019-07-05 10:50:42 +0000] [4164] [INFO] Shutting down: Master
+[2019-07-05 10:50:42 +0000] [4957] [INFO] Starting gunicorn 19.9.0
+[2019-07-05 10:50:42 +0000] [4957] [INFO] Listening at: http://0.0.0.0:8000 (4957)
+[2019-07-05 10:50:42 +0000] [4957] [INFO] Using worker: gevent
+[2019-07-05 10:50:42 +0000] [4961] [INFO] Booting worker with pid: 4961
+[2019-07-05 10:50:42 +0000] [4962] [INFO] Booting worker with pid: 4962
+[2019-07-05 10:50:42 +0000] [4963] [INFO] Booting worker with pid: 4963
+[2019-07-05 10:50:42 +0000] [4964] [INFO] Booting worker with pid: 4964
+[2019-07-05 10:50:42 +0000] [4966] [INFO] Booting worker with pid: 4966
+[2019-07-11 09:07:38 +0000] [4957] [INFO] Handling signal: term
+[2019-07-11 09:07:38 +0000] [4962] [INFO] Worker exiting (pid: 4962)
+[2019-07-11 09:07:39 +0000] [4961] [INFO] Worker exiting (pid: 4961)
+[2019-07-11 09:07:39 +0000] [4966] [INFO] Worker exiting (pid: 4966)
+[2019-07-11 09:07:39 +0000] [4963] [INFO] Worker exiting (pid: 4963)
+[2019-07-11 09:07:39 +0000] [4964] [INFO] Worker exiting (pid: 4964)
+[2019-07-11 09:07:39 +0000] [4957] [INFO] Shutting down: Master
+[2019-07-11 09:07:40 +0000] [29085] [INFO] Starting gunicorn 19.9.0
+[2019-07-11 09:07:40 +0000] [29085] [INFO] Listening at: http://0.0.0.0:8000 (29085)
+[2019-07-11 09:07:40 +0000] [29085] [INFO] Using worker: gevent
+[2019-07-11 09:07:40 +0000] [29089] [INFO] Booting worker with pid: 29089
+[2019-07-11 09:07:40 +0000] [29090] [INFO] Booting worker with pid: 29090
+[2019-07-11 09:07:40 +0000] [29091] [INFO] Booting worker with pid: 29091
+[2019-07-11 09:07:40 +0000] [29093] [INFO] Booting worker with pid: 29093
+[2019-07-11 09:07:40 +0000] [29094] [INFO] Booting worker with pid: 29094
+[2019-07-11 10:42:39 +0000] [29085] [INFO] Handling signal: term
+[2019-07-11 10:42:39 +0000] [29090] [INFO] Worker exiting (pid: 29090)
+[2019-07-11 10:42:40 +0000] [29093] [INFO] Worker exiting (pid: 29093)
+[2019-07-11 10:42:40 +0000] [29091] [INFO] Worker exiting (pid: 29091)
+[2019-07-11 10:42:40 +0000] [29094] [INFO] Worker exiting (pid: 29094)
+[2019-07-11 10:42:40 +0000] [29089] [INFO] Worker exiting (pid: 29089)
+[2019-07-11 10:42:40 +0000] [29085] [INFO] Shutting down: Master
+[2019-07-11 10:42:40 +0000] [29439] [INFO] Starting gunicorn 19.9.0
+[2019-07-11 10:42:40 +0000] [29439] [INFO] Listening at: http://0.0.0.0:8000 (29439)
+[2019-07-11 10:42:40 +0000] [29439] [INFO] Using worker: gevent
+[2019-07-11 10:42:40 +0000] [29443] [INFO] Booting worker with pid: 29443
+[2019-07-11 10:42:40 +0000] [29444] [INFO] Booting worker with pid: 29444
+[2019-07-11 10:42:40 +0000] [29445] [INFO] Booting worker with pid: 29445
+[2019-07-11 10:42:40 +0000] [29446] [INFO] Booting worker with pid: 29446
+[2019-07-11 10:42:40 +0000] [29447] [INFO] Booting worker with pid: 29447
+[2019-07-23 08:02:30 +0000] [29439] [INFO] Handling signal: term
+[2019-07-23 08:02:31 +0000] [29446] [INFO] Worker exiting (pid: 29446)
+[2019-07-23 08:02:31 +0000] [29447] [INFO] Worker exiting (pid: 29447)
+[2019-07-23 08:02:31 +0000] [29445] [INFO] Worker exiting (pid: 29445)
+[2019-07-23 08:02:31 +0000] [29444] [INFO] Worker exiting (pid: 29444)
+[2019-07-23 08:02:31 +0000] [29443] [INFO] Worker exiting (pid: 29443)
+[2019-07-23 08:02:31 +0000] [29439] [INFO] Shutting down: Master
+[2019-07-23 08:02:32 +0000] [17100] [INFO] Starting gunicorn 19.9.0
+[2019-07-23 08:02:32 +0000] [17100] [INFO] Listening at: http://0.0.0.0:8000 (17100)
+[2019-07-23 08:02:32 +0000] [17100] [INFO] Using worker: gevent
+[2019-07-23 08:02:32 +0000] [17104] [INFO] Booting worker with pid: 17104
+[2019-07-23 08:02:32 +0000] [17105] [INFO] Booting worker with pid: 17105
+[2019-07-23 08:02:32 +0000] [17106] [INFO] Booting worker with pid: 17106
+[2019-07-23 08:02:32 +0000] [17107] [INFO] Booting worker with pid: 17107
+[2019-07-23 08:02:32 +0000] [17108] [INFO] Booting worker with pid: 17108
+[2019-07-23 12:54:24 +0000] [17100] [INFO] Handling signal: term
+[2019-07-23 12:54:24 +0000] [17107] [INFO] Worker exiting (pid: 17107)
+[2019-07-23 12:54:24 +0000] [17106] [INFO] Worker exiting (pid: 17106)
+[2019-07-23 12:54:24 +0000] [17108] [INFO] Worker exiting (pid: 17108)
+[2019-07-23 12:54:24 +0000] [17105] [INFO] Worker exiting (pid: 17105)
+[2019-07-23 12:54:25 +0000] [17104] [INFO] Worker exiting (pid: 17104)
+[2019-07-23 12:54:25 +0000] [17100] [INFO] Shutting down: Master
+[2019-07-23 12:54:25 +0000] [18051] [INFO] Starting gunicorn 19.9.0
+[2019-07-23 12:54:25 +0000] [18051] [INFO] Listening at: http://0.0.0.0:8000 (18051)
+[2019-07-23 12:54:25 +0000] [18051] [INFO] Using worker: gevent
+[2019-07-23 12:54:25 +0000] [18055] [INFO] Booting worker with pid: 18055
+[2019-07-23 12:54:25 +0000] [18056] [INFO] Booting worker with pid: 18056
+[2019-07-23 12:54:25 +0000] [18057] [INFO] Booting worker with pid: 18057
+[2019-07-23 12:54:25 +0000] [18058] [INFO] Booting worker with pid: 18058
+[2019-07-23 12:54:25 +0000] [18059] [INFO] Booting worker with pid: 18059
+[2019-07-23 13:18:28 +0000] [18051] [INFO] Handling signal: term
+[2019-07-23 13:18:28 +0000] [18055] [INFO] Worker exiting (pid: 18055)
+[2019-07-23 13:18:28 +0000] [18056] [INFO] Worker exiting (pid: 18056)
+[2019-07-23 13:18:29 +0000] [18057] [INFO] Worker exiting (pid: 18057)
+[2019-07-23 13:18:29 +0000] [18059] [INFO] Worker exiting (pid: 18059)
+[2019-07-23 13:18:29 +0000] [18058] [INFO] Worker exiting (pid: 18058)
+[2019-07-23 13:18:29 +0000] [18051] [INFO] Shutting down: Master
+[2019-07-23 13:18:29 +0000] [18705] [INFO] Starting gunicorn 19.9.0
+[2019-07-23 13:18:29 +0000] [18705] [INFO] Listening at: http://0.0.0.0:8000 (18705)
+[2019-07-23 13:18:29 +0000] [18705] [INFO] Using worker: gevent
+[2019-07-23 13:18:29 +0000] [18709] [INFO] Booting worker with pid: 18709
+[2019-07-23 13:18:30 +0000] [18710] [INFO] Booting worker with pid: 18710
+[2019-07-23 13:18:30 +0000] [18711] [INFO] Booting worker with pid: 18711
+[2019-07-23 13:18:30 +0000] [18713] [INFO] Booting worker with pid: 18713
+[2019-07-23 13:18:30 +0000] [18714] [INFO] Booting worker with pid: 18714
+[2019-07-25 14:20:30 +0000] [18705] [INFO] Handling signal: term
+[2019-07-25 14:20:30 +0000] [18713] [INFO] Worker exiting (pid: 18713)
+[2019-07-25 14:20:30 +0000] [18711] [INFO] Worker exiting (pid: 18711)
+[2019-07-25 14:20:30 +0000] [18710] [INFO] Worker exiting (pid: 18710)
+[2019-07-25 14:20:30 +0000] [18714] [INFO] Worker exiting (pid: 18714)
+[2019-07-25 14:20:30 +0000] [18709] [INFO] Worker exiting (pid: 18709)
+[2019-07-25 14:20:30 +0000] [18705] [INFO] Shutting down: Master
+[2019-07-25 14:20:31 +0000] [27733] [INFO] Starting gunicorn 19.9.0
+[2019-07-25 14:20:31 +0000] [27733] [INFO] Listening at: http://0.0.0.0:8000 (27733)
+[2019-07-25 14:20:31 +0000] [27733] [INFO] Using worker: gevent
+[2019-07-25 14:20:31 +0000] [27737] [INFO] Booting worker with pid: 27737
+[2019-07-25 14:20:31 +0000] [27738] [INFO] Booting worker with pid: 27738
+[2019-07-25 14:20:31 +0000] [27739] [INFO] Booting worker with pid: 27739
+[2019-07-25 14:20:31 +0000] [27740] [INFO] Booting worker with pid: 27740
+[2019-07-25 14:20:31 +0000] [27741] [INFO] Booting worker with pid: 27741
+[2019-07-31 13:40:05 +0000] [27733] [INFO] Handling signal: term
+[2019-07-31 13:40:06 +0000] [27737] [INFO] Worker exiting (pid: 27737)
+[2019-07-31 13:40:06 +0000] [27741] [INFO] Worker exiting (pid: 27741)
+[2019-07-31 13:40:06 +0000] [27739] [INFO] Worker exiting (pid: 27739)
+[2019-07-31 13:40:06 +0000] [27740] [INFO] Worker exiting (pid: 27740)
+[2019-07-31 13:40:06 +0000] [27738] [INFO] Worker exiting (pid: 27738)
+[2019-07-31 13:40:06 +0000] [27733] [INFO] Shutting down: Master
+[2019-07-31 13:40:07 +0000] [22069] [INFO] Starting gunicorn 19.9.0
+[2019-07-31 13:40:07 +0000] [22069] [INFO] Listening at: http://0.0.0.0:8000 (22069)
+[2019-07-31 13:40:07 +0000] [22069] [INFO] Using worker: gevent
+[2019-07-31 13:40:07 +0000] [22073] [INFO] Booting worker with pid: 22073
+[2019-07-31 13:40:07 +0000] [22074] [INFO] Booting worker with pid: 22074
+[2019-07-31 13:40:07 +0000] [22075] [INFO] Booting worker with pid: 22075
+[2019-07-31 13:40:07 +0000] [22076] [INFO] Booting worker with pid: 22076
+[2019-07-31 13:40:07 +0000] [22077] [INFO] Booting worker with pid: 22077
+[2019-08-24 10:11:54 +0000] [22069] [INFO] Handling signal: term
+[2019-08-24 10:11:54 +0000] [22076] [INFO] Worker exiting (pid: 22076)
+[2019-08-24 10:11:54 +0000] [22075] [INFO] Worker exiting (pid: 22075)
+[2019-08-24 10:11:54 +0000] [22074] [INFO] Worker exiting (pid: 22074)
+[2019-08-24 10:11:54 +0000] [22077] [INFO] Worker exiting (pid: 22077)
+[2019-08-24 10:11:54 +0000] [22073] [INFO] Worker exiting (pid: 22073)
+[2019-08-24 10:11:55 +0000] [22069] [INFO] Shutting down: Master
+[2019-08-24 10:11:56 +0000] [31810] [INFO] Starting gunicorn 19.9.0
+[2019-08-24 10:11:56 +0000] [31810] [INFO] Listening at: http://0.0.0.0:8000 (31810)
+[2019-08-24 10:11:56 +0000] [31810] [INFO] Using worker: gevent
+[2019-08-24 10:11:56 +0000] [31814] [INFO] Booting worker with pid: 31814
+[2019-08-24 10:11:56 +0000] [31815] [INFO] Booting worker with pid: 31815
+[2019-08-24 10:11:56 +0000] [31816] [INFO] Booting worker with pid: 31816
+[2019-08-24 10:11:56 +0000] [31817] [INFO] Booting worker with pid: 31817
+[2019-08-24 10:11:56 +0000] [31818] [INFO] Booting worker with pid: 31818
+[2019-08-24 10:27:05 +0000] [31810] [INFO] Handling signal: term
+[2019-08-24 10:27:05 +0000] [31817] [INFO] Worker exiting (pid: 31817)
+[2019-08-24 10:27:05 +0000] [31818] [INFO] Worker exiting (pid: 31818)
+[2019-08-24 10:27:05 +0000] [31814] [INFO] Worker exiting (pid: 31814)
+[2019-08-24 10:27:06 +0000] [31815] [INFO] Worker exiting (pid: 31815)
+[2019-08-24 10:27:06 +0000] [31816] [INFO] Worker exiting (pid: 31816)
+[2019-08-24 10:27:06 +0000] [31810] [INFO] Shutting down: Master
+[2019-08-24 10:27:06 +0000] [32009] [INFO] Starting gunicorn 19.9.0
+[2019-08-24 10:27:06 +0000] [32009] [INFO] Listening at: http://0.0.0.0:8000 (32009)
+[2019-08-24 10:27:06 +0000] [32009] [INFO] Using worker: gevent
+[2019-08-24 10:27:06 +0000] [32012] [INFO] Booting worker with pid: 32012
+[2019-08-24 10:27:06 +0000] [32013] [INFO] Booting worker with pid: 32013
+[2019-08-24 10:27:06 +0000] [32014] [INFO] Booting worker with pid: 32014
+[2019-08-24 10:27:06 +0000] [32015] [INFO] Booting worker with pid: 32015
+[2019-08-24 10:27:06 +0000] [32016] [INFO] Booting worker with pid: 32016
+[2019-08-24 10:29:23 +0000] [32009] [INFO] Handling signal: term
+[2019-08-24 10:29:24 +0000] [32012] [INFO] Worker exiting (pid: 32012)
+[2019-08-24 10:29:24 +0000] [32013] [INFO] Worker exiting (pid: 32013)
+[2019-08-24 10:29:24 +0000] [32014] [INFO] Worker exiting (pid: 32014)
+[2019-08-24 10:29:24 +0000] [32015] [INFO] Worker exiting (pid: 32015)
+[2019-08-24 10:29:24 +0000] [32016] [INFO] Worker exiting (pid: 32016)
+[2019-08-24 10:29:24 +0000] [32009] [INFO] Shutting down: Master
+[2019-08-24 10:35:45 +0000] [32183] [INFO] Starting gunicorn 19.9.0
+[2019-08-24 10:35:45 +0000] [32183] [INFO] Listening at: http://0.0.0.0:8000 (32183)
+[2019-08-24 10:35:45 +0000] [32183] [INFO] Using worker: gevent
+[2019-08-24 10:35:45 +0000] [32186] [INFO] Booting worker with pid: 32186
+[2019-08-24 10:35:45 +0000] [32187] [INFO] Booting worker with pid: 32187
+[2019-08-24 10:35:45 +0000] [32188] [INFO] Booting worker with pid: 32188
+[2019-08-24 10:35:45 +0000] [32189] [INFO] Booting worker with pid: 32189
+[2019-08-24 10:35:45 +0000] [32190] [INFO] Booting worker with pid: 32190
+[2019-08-24 10:58:19 +0000] [32183] [INFO] Handling signal: term
+[2019-08-24 10:58:19 +0000] [32186] [INFO] Worker exiting (pid: 32186)
+[2019-08-24 10:58:19 +0000] [32187] [INFO] Worker exiting (pid: 32187)
+[2019-08-24 10:58:19 +0000] [32189] [INFO] Worker exiting (pid: 32189)
+[2019-08-24 10:58:19 +0000] [32190] [INFO] Worker exiting (pid: 32190)
+[2019-08-24 10:58:19 +0000] [32188] [INFO] Worker exiting (pid: 32188)
+[2019-08-24 10:58:20 +0000] [32183] [INFO] Shutting down: Master
+[2019-08-24 12:41:39 +0000] [32716] [INFO] Starting gunicorn 19.9.0
+[2019-08-24 12:41:39 +0000] [32716] [INFO] Listening at: http://0.0.0.0:8000 (32716)
+[2019-08-24 12:41:39 +0000] [32716] [INFO] Using worker: gevent
+[2019-08-24 12:41:39 +0000] [32719] [INFO] Booting worker with pid: 32719
+[2019-08-24 12:41:39 +0000] [32720] [INFO] Booting worker with pid: 32720
+[2019-08-24 12:41:40 +0000] [32722] [INFO] Booting worker with pid: 32722
+[2019-08-24 12:41:40 +0000] [32724] [INFO] Booting worker with pid: 32724
+[2019-08-24 12:41:40 +0000] [32723] [INFO] Booting worker with pid: 32723
+[2019-08-26 16:38:42 +0000] [32716] [INFO] Handling signal: term
+[2019-08-26 16:38:42 +0000] [32720] [INFO] Worker exiting (pid: 32720)
+[2019-08-26 16:38:43 +0000] [32719] [INFO] Worker exiting (pid: 32719)
+[2019-08-26 16:38:43 +0000] [32724] [INFO] Worker exiting (pid: 32724)
+[2019-08-26 16:38:43 +0000] [32723] [INFO] Worker exiting (pid: 32723)
+[2019-08-26 16:38:43 +0000] [32722] [INFO] Worker exiting (pid: 32722)
+[2019-08-26 16:38:43 +0000] [32716] [INFO] Shutting down: Master
+[2019-08-26 16:38:43 +0000] [12406] [INFO] Starting gunicorn 19.9.0
+[2019-08-26 16:38:43 +0000] [12406] [INFO] Listening at: http://0.0.0.0:8000 (12406)
+[2019-08-26 16:38:43 +0000] [12406] [INFO] Using worker: gevent
+[2019-08-26 16:38:43 +0000] [12410] [INFO] Booting worker with pid: 12410
+[2019-08-26 16:38:43 +0000] [12411] [INFO] Booting worker with pid: 12411
+[2019-08-26 16:38:44 +0000] [12412] [INFO] Booting worker with pid: 12412
+[2019-08-26 16:38:44 +0000] [12413] [INFO] Booting worker with pid: 12413
+[2019-08-26 16:38:44 +0000] [12415] [INFO] Booting worker with pid: 12415
+[2019-08-27 09:13:55 +0000] [12406] [INFO] Handling signal: term
+[2019-08-27 09:13:56 +0000] [12411] [INFO] Worker exiting (pid: 12411)
+[2019-08-27 09:13:56 +0000] [12410] [INFO] Worker exiting (pid: 12410)
+[2019-08-27 09:13:56 +0000] [12412] [INFO] Worker exiting (pid: 12412)
+[2019-08-27 09:13:56 +0000] [12413] [INFO] Worker exiting (pid: 12413)
+[2019-08-27 09:13:56 +0000] [12415] [INFO] Worker exiting (pid: 12415)
+[2019-08-27 09:13:56 +0000] [12406] [INFO] Shutting down: Master
+[2019-08-27 09:13:57 +0000] [15749] [INFO] Starting gunicorn 19.9.0
+[2019-08-27 09:13:57 +0000] [15749] [INFO] Listening at: http://0.0.0.0:8000 (15749)
+[2019-08-27 09:13:57 +0000] [15749] [INFO] Using worker: gevent
+[2019-08-27 09:13:57 +0000] [15753] [INFO] Booting worker with pid: 15753
+[2019-08-27 09:13:57 +0000] [15754] [INFO] Booting worker with pid: 15754
+[2019-08-27 09:13:57 +0000] [15755] [INFO] Booting worker with pid: 15755
+[2019-08-27 09:13:57 +0000] [15756] [INFO] Booting worker with pid: 15756
+[2019-08-27 09:13:57 +0000] [15757] [INFO] Booting worker with pid: 15757
+[2019-08-30 11:57:00 +0000] [15749] [INFO] Handling signal: term
+[2019-08-30 11:57:00 +0000] [15756] [INFO] Worker exiting (pid: 15756)
+[2019-08-30 11:57:00 +0000] [15753] [INFO] Worker exiting (pid: 15753)
+[2019-08-30 11:57:00 +0000] [15754] [INFO] Worker exiting (pid: 15754)
+[2019-08-30 11:57:00 +0000] [15755] [INFO] Worker exiting (pid: 15755)
+[2019-08-30 11:57:00 +0000] [15757] [INFO] Worker exiting (pid: 15757)
+[2019-08-30 11:57:01 +0000] [15749] [INFO] Shutting down: Master
+[2019-08-30 11:57:01 +0000] [32155] [INFO] Starting gunicorn 19.9.0
+[2019-08-30 11:57:01 +0000] [32155] [INFO] Listening at: http://0.0.0.0:8000 (32155)
+[2019-08-30 11:57:01 +0000] [32155] [INFO] Using worker: gevent
+[2019-08-30 11:57:01 +0000] [32159] [INFO] Booting worker with pid: 32159
+[2019-08-30 11:57:01 +0000] [32160] [INFO] Booting worker with pid: 32160
+[2019-08-30 11:57:01 +0000] [32161] [INFO] Booting worker with pid: 32161
+[2019-08-30 11:57:01 +0000] [32162] [INFO] Booting worker with pid: 32162
+[2019-08-30 11:57:02 +0000] [32163] [INFO] Booting worker with pid: 32163
+[2019-08-30 12:01:19 +0000] [32155] [INFO] Handling signal: term
+[2019-08-30 12:01:20 +0000] [32159] [INFO] Worker exiting (pid: 32159)
+[2019-08-30 12:01:20 +0000] [32161] [INFO] Worker exiting (pid: 32161)
+[2019-08-30 12:01:20 +0000] [32163] [INFO] Worker exiting (pid: 32163)
+[2019-08-30 12:01:20 +0000] [32162] [INFO] Worker exiting (pid: 32162)
+[2019-08-30 12:01:20 +0000] [32160] [INFO] Worker exiting (pid: 32160)
+[2019-08-30 12:01:21 +0000] [32155] [INFO] Shutting down: Master
+[2019-08-30 12:01:21 +0000] [32222] [INFO] Starting gunicorn 19.9.0
+[2019-08-30 12:01:21 +0000] [32222] [INFO] Listening at: http://0.0.0.0:8000 (32222)
+[2019-08-30 12:01:21 +0000] [32222] [INFO] Using worker: gevent
+[2019-08-30 12:01:21 +0000] [32226] [INFO] Booting worker with pid: 32226
+[2019-08-30 12:01:21 +0000] [32227] [INFO] Booting worker with pid: 32227
+[2019-08-30 12:01:21 +0000] [32228] [INFO] Booting worker with pid: 32228
+[2019-08-30 12:01:21 +0000] [32229] [INFO] Booting worker with pid: 32229
+[2019-08-30 12:01:21 +0000] [32230] [INFO] Booting worker with pid: 32230
+[2019-08-30 12:16:16 +0000] [32222] [INFO] Handling signal: term
+[2019-08-30 12:16:16 +0000] [32230] [INFO] Worker exiting (pid: 32230)
+[2019-08-30 12:16:16 +0000] [32229] [INFO] Worker exiting (pid: 32229)
+[2019-08-30 12:16:17 +0000] [32226] [INFO] Worker exiting (pid: 32226)
+[2019-08-30 12:16:17 +0000] [32227] [INFO] Worker exiting (pid: 32227)
+[2019-08-30 12:16:17 +0000] [32228] [INFO] Worker exiting (pid: 32228)
+[2019-08-30 12:16:17 +0000] [32222] [INFO] Shutting down: Master
+[2019-08-30 12:16:18 +0000] [32322] [INFO] Starting gunicorn 19.9.0
+[2019-08-30 12:16:18 +0000] [32322] [INFO] Listening at: http://0.0.0.0:8000 (32322)
+[2019-08-30 12:16:18 +0000] [32322] [INFO] Using worker: gevent
+[2019-08-30 12:16:18 +0000] [32325] [INFO] Booting worker with pid: 32325
+[2019-08-30 12:16:18 +0000] [32326] [INFO] Booting worker with pid: 32326
+[2019-08-30 12:16:18 +0000] [32327] [INFO] Booting worker with pid: 32327
+[2019-08-30 12:16:18 +0000] [32328] [INFO] Booting worker with pid: 32328
+[2019-08-30 12:16:18 +0000] [32329] [INFO] Booting worker with pid: 32329
+[2019-08-30 12:20:26 +0000] [32322] [INFO] Handling signal: term
+[2019-08-30 12:20:26 +0000] [32325] [INFO] Worker exiting (pid: 32325)
+[2019-08-30 12:20:27 +0000] [32326] [INFO] Worker exiting (pid: 32326)
+[2019-08-30 12:20:27 +0000] [32328] [INFO] Worker exiting (pid: 32328)
+[2019-08-30 12:20:27 +0000] [32327] [INFO] Worker exiting (pid: 32327)
+[2019-08-30 12:20:27 +0000] [32329] [INFO] Worker exiting (pid: 32329)
+[2019-08-30 12:20:27 +0000] [32322] [INFO] Shutting down: Master
+[2019-08-30 12:20:27 +0000] [32383] [INFO] Starting gunicorn 19.9.0
+[2019-08-30 12:20:27 +0000] [32383] [INFO] Listening at: http://0.0.0.0:8000 (32383)
+[2019-08-30 12:20:27 +0000] [32383] [INFO] Using worker: gevent
+[2019-08-30 12:20:27 +0000] [32386] [INFO] Booting worker with pid: 32386
+[2019-08-30 12:20:27 +0000] [32387] [INFO] Booting worker with pid: 32387
+[2019-08-30 12:20:28 +0000] [32388] [INFO] Booting worker with pid: 32388
+[2019-08-30 12:20:28 +0000] [32389] [INFO] Booting worker with pid: 32389
+[2019-08-30 12:20:28 +0000] [32390] [INFO] Booting worker with pid: 32390
+[2019-08-30 13:16:42 +0000] [32383] [INFO] Handling signal: term
+[2019-08-30 13:16:42 +0000] [32386] [INFO] Worker exiting (pid: 32386)
+[2019-08-30 13:16:42 +0000] [32387] [INFO] Worker exiting (pid: 32387)
+[2019-08-30 13:16:42 +0000] [32388] [INFO] Worker exiting (pid: 32388)
+[2019-08-30 13:16:42 +0000] [32390] [INFO] Worker exiting (pid: 32390)
+[2019-08-30 13:16:42 +0000] [32389] [INFO] Worker exiting (pid: 32389)
+[2019-08-30 13:16:43 +0000] [32383] [INFO] Shutting down: Master
+[2019-08-30 13:16:43 +0000] [32636] [INFO] Starting gunicorn 19.9.0
+[2019-08-30 13:16:43 +0000] [32636] [INFO] Listening at: http://0.0.0.0:8000 (32636)
+[2019-08-30 13:16:43 +0000] [32636] [INFO] Using worker: gevent
+[2019-08-30 13:16:43 +0000] [32639] [INFO] Booting worker with pid: 32639
+[2019-08-30 13:16:43 +0000] [32640] [INFO] Booting worker with pid: 32640
+[2019-08-30 13:16:43 +0000] [32641] [INFO] Booting worker with pid: 32641
+[2019-08-30 13:16:43 +0000] [32642] [INFO] Booting worker with pid: 32642
+[2019-08-30 13:16:43 +0000] [32644] [INFO] Booting worker with pid: 32644
